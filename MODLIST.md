@@ -22,7 +22,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | Tic-TACS | A complete rewrite of Minecraft's Threaded Anvil Chunk Storage, or TACS. It allows to multithread chunk generation, and can also allow render distances above 32. | Gegy | No | Yes | None | https://github.com/Gegy/tic-tacs/releases |
 | C2ME | A Fabric mod designed to improve the chunk performance of Minecraft | YatopiaMC | No | --- | --- | https://github.com/YatopiaMC/C2ME-fabric |
 | Fast Furnace | --- | Tfarcenim | --- | No | --- | https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric |
-| HopperOptimizations | --- | 2No2Name | --- | --- | Lithium (compatible Fork available) | https://github.com/2No2Name/hopperOptimizations |
+| HopperOptimizations | --- | 2No2Name | --- | No | Lithium ([compatible Fork](https://github.com/2No2Name/lithium-fabric) available) | https://github.com/2No2Name/hopperOptimizations |
 
 ## Lighting
 | Name | Description | Developer | Stable | Dangerous | Incompatibilities | Link |
@@ -53,7 +53,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | Name | Description | Developer | Stable | Dangerous | Incompatibilities | Link |
 | --- | --- | --- | --- | --- | --- | --- |
 | Fabric Carpet, Carpet TIS Addition, Carpet Addons | --- | gnembon, TISUnion, whoImT | --- | No | --- | https://github.com/gnembon/fabric-carpet https://github.com/TISUnion/Carpet-TIS-Addition https://github.com/whoImT/carpet-addons |
-| Fabric Zero (Discontinued) | Compability enhancement mod and can slightly improve performance | Fox2Code | --- | No | None | https://www.curseforge.com/minecraft/mc-mods/fabric-zero |
+| Fabric Zero (Discontinued) | Compability enhancement mod and can slightly improve performance | Fox2Code | Yes | No | None | https://www.curseforge.com/minecraft/mc-mods/fabric-zero |
 | FoamFix (outdated) | Outdated do not use | asiekierka | --- | --- | Recent Minecraft Versions | https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod |
 
 
@@ -65,3 +65,4 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | Dynamic FPS | Slows down Minecraft's rendering when Minecraft is minimized or in the background to improve performance in other applications. | juliand665 | Yes | No | None | https://github.com/juliand665/Dynamic-FPS/ |
 | NoFade | Removes long transition animation when you load into Minecraft | UltimateBoomer | Yes | No | None | https://www.curseforge.com/minecraft/mc-mods/no-fade |
 | SmoothScrollingEverywhere | Adds smooth scrolling to every vanilla list and the ability the bounce back when overscroll. | shedaniel | Yes | No | None | https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric |
+| Spark | CPU Profiler, Memory Inspection & Server Health Reporting | lucko | Yes | No | None | https://github.com/lucko/spark |

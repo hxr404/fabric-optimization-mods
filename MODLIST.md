@@ -11,7 +11,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | Cull Leaves | A renderer tweak that implements leaf culling similar to OptiFine's. NOTE: This will negatively impact visuals! | TeamMidnightDust | Yes | No | None | https://github.com/TeamMidnightDust/CullLeaves/ |
 | Entity Culling | A rendering tweak that implements asynchronous culling to entities. | tr7zw | No | No | None | https://github.com/tr7zw/EntityCulling-Fabric/ |
 | Better Beds | Makes Minecraft use the built-in renderer for beds rather than the custom one, to improve rendering performance when around beds. | TeamMidnightDust | No | No | None | https://github.com/TeamMidnightDust/BetterBeds/ |
-| Enhanced Block Entities | Makes chests (and soon to be more block entities) use baked block models rather than laggy entity models. But doesn't remove animations  | FoundationGames | --- | No | Requires Indium to work | https://github.com/FoundationGames/EnhancedBlockEntities |
+| Enhanced Block Entities | Makes chests (and soon to be more block entities) use baked block models rather than laggy entity models. But doesn't remove animations  | FoundationGames | --- | No | If using with Sodium requires Indium | https://github.com/FoundationGames/EnhancedBlockEntities |
 | Fast Chest | Removes dynamic models from chests and makes them render as static chunk geometry. (This removes their lid opening animation) | FakeDomi | --- | No | --- | https://www.curseforge.com/minecraft/mc-mods/fastchest |
 | Indium | Adaptation of Indigo (Reference implementation of the Fabric Rendering API) for use with Sodium | comp500 | --- | --- | Some Versions of Sodium | https://github.com/comp500/Indium |
 
@@ -20,7 +20,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | --- | --- | --- | --- | --- | --- | --- |
 | Lithium | A mod that optimizes some aspects of Minecraft's server, while maintaining behavior identical to vanilla. Works in singleplayer. | CaffeineMC | Yes | No | None | https://github.com/jellysquid3/lithium-fabric/ |
 | Tic-TACS | A complete rewrite of Minecraft's Threaded Anvil Chunk Storage, or TACS. It allows to multithread chunk generation, and can also allow render distances above 32. | Gegy | No | Yes | None | https://github.com/Gegy/tic-tacs/releases |
-| C2ME | --- | YatopiaMC | No | --- | --- | https://github.com/YatopiaMC/C2ME-fabric |
+| C2ME | A Fabric mod designed to improve the chunk performance of Minecraft | YatopiaMC | No | --- | --- | https://github.com/YatopiaMC/C2ME-fabric |
 | Fast Furnace | --- | Tfarcenim | --- | No | --- | https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric |
 | HopperOptimizations | --- | 2No2Name | --- | --- | Lithium (compatible Fork available) | https://github.com/2No2Name/hopperOptimizations |
 
@@ -63,5 +63,5 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | --- | --- | --- | --- | --- | --- | --- |
 | Sodium Extra Fabric (Requires Sodium) | Adds more graphical settings to Sodium, similar to OptiFine's. | FlashyReese | No | No | Canvas | https://github.com/FlashyReese/sodium-extra-fabric/ |
 | Dynamic FPS | Slows down Minecraft's rendering when Minecraft is minimized or in the background to improve performance in other applications. | juliand665 | Yes | No | None | https://github.com/juliand665/Dynamic-FPS/ |
-| NoFade | Removes long transition animation when you load into Minecraft | UltimateBoomer | --- | No | None | https://www.curseforge.com/minecraft/mc-mods/no-fade |
-| SmoothScrollingEverywhere | Adds smooth scrolling to every vanilla list and the ability the bounce back when overscroll. | shedaniel | --- | No | --- | https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric |
+| NoFade | Removes long transition animation when you load into Minecraft | UltimateBoomer | Yes | No | None | https://www.curseforge.com/minecraft/mc-mods/no-fade |
+| SmoothScrollingEverywhere | Adds smooth scrolling to every vanilla list and the ability the bounce back when overscroll. | shedaniel | Yes | No | None | https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric |

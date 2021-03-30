@@ -64,5 +64,5 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | Sodium Extra Fabric (Requires Sodium) | Adds more graphical settings to Sodium, similar to OptiFine's. | FlashyReese | No | No | Canvas | https://github.com/FlashyReese/sodium-extra-fabric/ |
 | Dynamic FPS | Slows down Minecraft's rendering when Minecraft is minimized or in the background to improve performance in other applications. | juliand665 | Yes | No | None | https://github.com/juliand665/Dynamic-FPS/ |
 | NoFade | Removes long transition animation when you load into Minecraft | UltimateBoomer | Yes | No | None | https://www.curseforge.com/minecraft/mc-mods/no-fade |
-| SmoothScrollingEverywhere | Adds smooth scrolling to every vanilla list and the ability the bounce back when overscroll. | shedaniel | Yes | No | None | https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric |
+| SmoothScrollingEverywhere | Adds smooth scrolling to every vanilla list and the ability the bounce back when overscroll. | shedaniel | No | No | None | https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric |
 | Spark | CPU Profiler, Memory Inspection & Server Health Reporting | lucko | Yes | No | None | https://github.com/lucko/spark |

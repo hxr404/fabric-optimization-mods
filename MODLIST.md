@@ -34,7 +34,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | Name | Description | Developer | Stable | Dangerous | Incompatibilities | Link |
 | --- | --- | --- | --- | --- | --- | --- |
 | Hydrogen | Reduces RAM usage of Minecraft by compacting models and other misc. data. More effective with more content mods. | CaffeineMC | Yes | No | None | https://github.com/jellysquid3/hydrogen-fabric/ |
-| FerriteCore | --- | malte0811 | --- | --- | Technically compatible with Hydrogen, but a couple (not all) of Hydrogen's mixins are disabled. | https://github.com/malte0811/FerriteCore |
+| FerriteCore | Reduces RAM usage in a few different ways | malte0811 | --- | --- | Technically compatible with Hydrogen, but a couple (not all) of Hydrogen's mixins are disabled. | https://github.com/malte0811/FerriteCore |
 
 ## Network
 | Name | Description | Developer | Stable | Dangerous | Incompatibilities | Link |
@@ -53,9 +53,10 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 ### Theses are some random mods that I've found.
 | Name | Description | Developer | Stable | Dangerous | Incompatibilities | Link |
 | --- | --- | --- | --- | --- | --- | --- |
-| Fabric Carpet, Carpet TIS Addition, Carpet Addons | --- | gnembon, TISUnion, whoImT | --- | No | --- | https://github.com/gnembon/fabric-carpet https://github.com/TISUnion/Carpet-TIS-Addition https://github.com/whoImT/carpet-addons |
+| Fabric Carpet, Carpet TIS Addition, Carpet Addons | `lagFreeSpawning`, `lightEngineMaxBatchSize`, `maxEntityCollisions`, `optimizedTNT`, `combineXPOrbs` (is implemented invanilla 1.17 snapshots) TIS Addition: `optimizedFastEntityMovement`, `optimizedHardHitBoxEntityCollision`, `optimizedTNTHighPriority` Carpet Addons by wholmT: `projectileRaycastLength` | gnembon, TISUnion, whoImT | --- | No | --- | https://github.com/gnembon/fabric-carpet https://github.com/TISUnion/Carpet-TIS-Addition https://github.com/whoImT/carpet-addons |
 | Fabric Zero (Discontinued) | Compability enhancement mod and can slightly improve performance | Fox2Code | Yes | No | None | https://www.curseforge.com/minecraft/mc-mods/fabric-zero |
 | FoamFix (outdated) | Outdated do not use | asiekierka | --- | --- | Recent Minecraft Versions | https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod |
+| VanillaFix | --- | Dimensional Development | --- | No | --- | https://github.com/DimensionalDevelopment/VanillaFix/tree/1.16 |
 
 
 ## Extra Utility

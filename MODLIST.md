@@ -47,6 +47,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | Cadmium | Loader for Jellysquid's optimized fork of Mojang's DataFixerUpper. Speeds up game loading. LucilleTea's port is required for 1.16.x. | Jellysquid, LucilleTea (port) | No | Yes | None | https://github.com/jellysquid3/cadmium-fabric/, https://github.com/LucilleTea/cadmium-fabric/ |
 | LazyDFU | Prevents DFU from being built until it is needed. Compatible with Cadmium and I highly recommend using these two together. | astei | Yes | No | None | https://github.com/astei/lazydfu/ |
 | Smooth Boot | Tweaks for Minecraft's bootstrap process, prevents Minecraft from eating your CPU on low end systems and allows for faster boots on high end systems. | UltimateBoomer | Mostly | No (only active on start-up) | None | https://www.curseforge.com/minecraft/mc-mods/smooth-boot |
+| DashLoader | caches the modelmanager while accelerating the other components of the client initialization stack | alphaqu | No | Yes | EnhancedBlockEntities, SmoothBoot, Other | https://github.com/alphaqu/DashLoader |
 
 ## Other
 ### Theses are some random mods that I've found.

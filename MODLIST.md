@@ -54,6 +54,7 @@ Despite being a toolkit for modding functionality, Fabric API actually contains 
 | Name | Description | Developer | Stable | Dangerous | Incompatibilities | Link |
 | --- | --- | --- | --- | --- | --- | --- |
 | Fabric Carpet, Carpet TIS Addition, Carpet Addons | `lagFreeSpawning`, `lightEngineMaxBatchSize`, `maxEntityCollisions`, `optimizedTNT`, `combineXPOrbs` (is implemented invanilla 1.17 snapshots) TIS Addition: `optimizedFastEntityMovement`, `optimizedHardHitBoxEntityCollision`, `optimizedTNTHighPriority` Carpet Addons by wholmT: `projectileRaycastLength` | gnembon, TISUnion, whoImT | --- | No | --- | https://github.com/gnembon/fabric-carpet https://github.com/TISUnion/Carpet-TIS-Addition https://github.com/whoImT/carpet-addons |
+| FTL-TNT from johan-carpet | A fork of [johan-carpet](https://github.com/JohanVonElectrum/Johan-Carpet) wich contains only the FTL-TNT rule (TNT optimized for large amounts in Cannons) | DragonEggBedrockBreaking | --- | No | --- | https://github.com/DragonEggBedrockBreaking/FTL-TNT |
 | Fabric Zero (Discontinued) | Compability enhancement mod and can slightly improve performance | Fox2Code | Yes | No | None | https://www.curseforge.com/minecraft/mc-mods/fabric-zero |
 | FoamFix (outdated) | Outdated do not use | asiekierka | --- | --- | Recent Minecraft Versions | https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod |
 | VanillaFix | --- | Dimensional Development | --- | No | --- | https://github.com/DimensionalDevelopment/VanillaFix/tree/1.16 |

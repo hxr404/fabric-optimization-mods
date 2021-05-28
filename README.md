@@ -1,3 +1,12 @@
+# EOL / Archieved
+I started a new mod list on my own, inspired by this project.
+
+I recommend using the [New Modlist I created from scratch](https://github.com/hxr404/minecraft-mods),
+its complete, tested and somewhat stable. Also I added some QoL mods to the list.
+(And it isn't just copy & pasted, these are mods I personally use  and that are confirmed working.)
+
+
+
 # About this Fork
 I just write down every optimization mod I can find. Refer to the original Project instead.<br>
 The original list is well-curated and better suited for production, thats why some experimental mods listed here are missing in the original.<br>
